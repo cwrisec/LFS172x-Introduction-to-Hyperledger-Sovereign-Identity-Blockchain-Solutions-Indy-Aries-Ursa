@@ -1,11 +1,28 @@
 https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS172x+3T2019
+Notes from : **Christophe Maertens**
 
 # Introduction. 
 
-- trust is broken on the Internet.
+Trust is broken on the Internet, we’ll dive into three Hyperledger open source projects—**Indy, Aries and Ursa**—looking at the tools, libraries, and reusable components they provide for creating and using independent *digital identities* rooted on blockchains or other distributed ledgers.
+
+## What are Indy, Aries and Ursa?
+
+- Blockchain based-**frameworks**.
+- Enable an important missing layer of the Internet—**the trust layer**.
+- They are about **identity on the Internet**.
+- They allow being able to **trust the data passed to you**.
+- **Prove** to others who you are and you being certain who they are.
+- Have been created to **add a trust layer** using mechanisms that are easy to use.
+- Enhance Privacy.
+
+
+## Why it's needed ?
+
+- Frauds, Scams, Data breaches, identity theft.
+- Risk of being fooled on internet is high (: 
+
 
 # Chapter 2. See written notes in sub-folder.
-
 ## Benefits of blockchain 
 
 Blockchains are a new infrastructure for securely validating and automating transactions across complex networks, with the potential to dramatically reduce the backend costs of modern financial systems and expedite the delivery of e-government services. 
