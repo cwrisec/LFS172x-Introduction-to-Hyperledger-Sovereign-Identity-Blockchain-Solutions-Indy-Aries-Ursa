@@ -1,9 +1,11 @@
-https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS172x+3T2019
-Notes from : **Christophe Maertens**
+Course : https://learning.edx.org/course/course-v1:LinuxFoundationX+LFS172x+3T2019
+Labs : https://github.com/cloudcompass/ToIPLabs/tree/master/docs/LFS172x
+Sorvin TX Explorer Scan : https://indyscan.io/ 
+Notes owner : **Christophe Maertens**
 
 # Introduction. 
 
-Trust is broken on the Internet, we’ll dive into three Hyperledger open source projects—**Indy, Aries and Ursa**—looking at the tools, libraries, and reusable components they provide for creating and using independent *digital identities* rooted on blockchains or other distributed ledgers.
+**Trust is broken on the Internet**, we’ll dive into three Hyperledger open source projects—**Indy, Aries and Ursa**—looking at the tools, libraries, and reusable components they provide for creating and using independent *digital identities* rooted on blockchains or other distributed ledgers.
 
 ## What are Indy, Aries and Ursa?
 
@@ -15,11 +17,46 @@ Trust is broken on the Internet, we’ll dive into three Hyperledger open source
 - Have been created to **add a trust layer** using mechanisms that are easy to use.
 - Enhance Privacy.
 
-
 ## Why it's needed ?
 
 - Frauds, Scams, Data breaches, identity theft.
 - Risk of being fooled on internet is high (: 
+
+# Chapter 1 : Something is missing. 
+
+**Trust is broken on the Internet** 
+
+![On internet nobody knows you are a dog](https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Internet_dog.jpg/220px-Internet_dog.jpg) 
+[*Wikpedia*](https://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you%27re_a_dog) - **On the Internet, nobody knows you're a dog**
+*You can be whoever you want to be. You can completely redefine yourself if you want. You don't have to worry about the slots other people put you in as much. They don't look at your body and make assumptions. They don't hear your accent and make assumptions. All they see are your words*
+
+- Would you buy a house based solely on the electronic data sent to you by the seller?
+- Would a university admit a student based solely on the grades and background delivered electronically directly from the student?
+- Would you help a Nigerian prince transfer 30M$ for 30% commission based solely on unsolicited online messages?
+
+**No way!**
+
+- It’s difficult to establish trust about the identity of an online contact and what they say.
+- We’ll look at how this trust was established in the past and why that approach no longer works.
+
+## Courses Objectives
+
+- Understand the basic mechanism (user ID and password) for proving your identity on the Internet and the problems it creates.
+- Understand how Identity Providers (IdPs) can learn more about us than we want them to.
+- Be familiar with other Internet identity challenges such as unwanted correlation, data breaches and central authority issues.
+- Understand the paper credential model that we have used for thousands of years.
+
+**
+
+
+
+#######
+###########
+########
+
+
+
+
 
 
 # Chapter 2. See written notes in sub-folder.
